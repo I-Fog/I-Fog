@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Josué Castillo 👋
 
 <!--
 **I-Fog/I-Fog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📫 Cómo contactarme: castillozelayaj@gmail.com
+- 🧐 Algo más personal: La emocionante de la programación es que puedes crear cualquier cosa.
