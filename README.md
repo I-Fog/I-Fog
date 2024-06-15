@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 📫 Cómo contactarme: castillozelayaj@gmail.com
-- 🧐 Algo más personal: La emocionante de la programación es que puedes crear cualquier cosa.
+- 🧐 : Lo emocionante de la programación es que puedes crear cualquier cosa.
